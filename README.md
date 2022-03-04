@@ -1,7 +1,6 @@
 
 
-
-### 👋 Hello, World! I'm Mr. Bud, a Game developer + a designer 🎮
+<h3 align="center">👋 Hello, World! I'm Mr. Bud, a Game developer + a designer 🎮</h1>
 It's kinda hard to tell what is my exact role because, it's a non-static variable. So sometimes I'm a game devloper, a game designer, or maybe a UI designer. 
 
 Oh by the way, just need to warn you about me. If you ever colloborate with me, kindly keep in mind that I messs up in little things, but I do big things nicely. I'm not sure why is that, maybe the god too messed up when building me. 
